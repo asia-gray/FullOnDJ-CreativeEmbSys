@@ -5,7 +5,8 @@
 ## Project Overview
 GO DJ! is a mini DJ controller designed to integrate audio playback, real-time controls, and vibrant music visualizations. This was my final projecr fot my Creative Embedded Systems course. The DIY controller combines the ESP32 TTGO, with sliding and rotary potentiometers, and Processing software to deliver an engaging audio-visual experience. 
 
-![Project GIF](link-to-gif-here)
+![djing_dual_screen](https://github.com/user-attachments/assets/136242b2-04f2-421a-a34f-9ab20f96d314)
+
 
 ## Design Goals
 1. Create a functioning DJ controller with volume and playback speed controls.
