@@ -59,8 +59,7 @@ GO DJ! is a mini DJ controller designed to integrate audio playback, real-time c
 
 ## Supplementary Images
 1. **Final Design**: ![Image of the finished DJ controller](link-to-image-here)
-2. **Enclosure Construction**: ![Image showing enclosure assembly](link-to-image-here)
-3. **Visualization Demo**: ![GIF of the music visualization](link-to-image-here)
+2. **Visualization Demo**: ![GIF of the music visualization]([https://www.dropbox.com/scl/fi/iojfq5bkea20bokyefow9/Screen-Recording-2024-12-05-at-10.31.08-AM.mov?rlkey=z0i148vjdcu9x4hnyjdmrfefq&st=77ccg2vq&dl=0)
 
 ---
 
