@@ -16,9 +16,12 @@ GO DJ! is a mini DJ controller designed to integrate audio playback, real-time c
 ## Hardware Components
 
 1. **ESP32 TTGO T-Display**: Dual-core microcontroller with built-in Wi-Fi and a small integrated screen for debugging.
-5. **Sliding Potentiometers (2x)**: Control volume for each track.
-6. **Rotary Potentiometers (2x)**: Adjust playback speed.
-8. **Thin Cardboard**: Used for constructing the enclosure.
+2. **Sliding Potentiometers (2x)**: Control volume for each track.
+3. **Rotary Potentiometers (2x)**: Adjust playback speed.
+4. **Thin Cardboard**: Used for constructing the enclosure.
+
+<img width="571" alt="fritzing-final-creative-emb-sys" src="https://github.com/user-attachments/assets/c1ab91a8-47d6-4531-b727-4ea007c02d9f" />
+
 
 ---
 
